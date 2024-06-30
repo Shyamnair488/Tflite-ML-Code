@@ -1,0 +1,10 @@
+Bacterial_Spot
+Early_Blight
+Healthy
+Late_Blight
+Leaf_Mold
+Septoria_leaf_spot
+Target_Spot
+Tomato_Mosaic_Virus
+Two-Spotted_Spider_Mite
+Yellow_Leaf_Curl_Virus

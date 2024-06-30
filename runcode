@@ -1,0 +1,5 @@
+newuser@raspberrypi:~ $ cd tflite1
+newuser@raspberrypi:~/tflite1 $ python3 TFLite_detection_webcam.py --modeldir=Sample_TFLite_model
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+newuser@raspberrypi:~/tflite1 $ 
+
